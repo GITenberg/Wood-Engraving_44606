@@ -1,0 +1,33 @@
+_repo: Wood-Engraving_44606
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Gill, Eric
+    alias: Gill, Arthur Eric Rowton
+    birthdate: 1882
+    deathdate: 1940
+    gutenberg_agent_id: '42243'
+    url: http://www.gutenberg.org/2009/agents/42243
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Beedham, R. J.
+    alias: Beedham, R. John
+    gutenberg_agent_id: '42833'
+    url: http://www.gutenberg.org/2009/agents/42833
+description: ''
+gutenberg_issued: '2014-01-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44606'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'NE'
+- !lcsh 'Wood-engraving -- Technique'
+title: Wood Engraving
+url: http://www.gutenberg.org/ebooks/44606
